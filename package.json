@@ -1,0 +1,19 @@
+{
+  "name": "is-same-guy",
+  "homepage": "thepicture/is-same-guy",
+  "version": "1.0.0",
+  "description": "Check if the identity is same",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "chat",
+    "comparison",
+    "identity",
+    "check",
+    "fingerprint"
+  ],
+  "author": "thepicture",
+  "license": "ISC"
+}
