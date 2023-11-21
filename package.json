@@ -1,7 +1,7 @@
 {
   "name": "is-same-guy",
   "homepage": "thepicture/is-same-guy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks if identities are same",
   "main": "index.js",
   "files": [
